@@ -1,0 +1,4 @@
+
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ØòáÍúÿÿÿÿ8Íè€Ë«,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷â—Æùÿÿÿÿ8Íè€Ë«,
+hsquid:S2095"LUse try-with-resources or close this "XContentParser" in a "finally" clause.(ã÷ïØ8Íè€Ë«,

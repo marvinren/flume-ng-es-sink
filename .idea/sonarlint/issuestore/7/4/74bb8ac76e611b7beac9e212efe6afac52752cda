@@ -1,0 +1,4 @@
+
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öëÀ8ÍßË«,
+|squid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "day_index".(öëÀ8ÍßË«,
+tsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¢Ìöó8ÍßË«,

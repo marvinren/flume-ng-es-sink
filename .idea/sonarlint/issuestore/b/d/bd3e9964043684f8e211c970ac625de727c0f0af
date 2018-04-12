@@ -1,0 +1,8 @@
+
+vsquid:S1450"URemove the "client" field and declare it as a local variable in the relevant methods.(Õ‡‡Òùÿÿÿÿ8ÍßË«,
+Ssquid:S1135"2Complete the task associated to this TODO comment.(Ä°„ÿÿÿÿÿ8ÍßË«,
+Psquid:S1068"/Remove this unused "sinkCounter" private field.(Ë—¿§ûÿÿÿÿ8ÍßË«,
+Fsquid:S1181"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ8ÍßË«,
+Fsquid:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8ÍßË«,
+asquid:S1193"@Replace the usage of the "instanceof" operator by a catch block.(¤ Ê™şÿÿÿÿ8ÍßË«,
+Tsquid:S1068"3Remove this unused "serverAddresses" private field.(áûìéùÿÿÿÿ8ÍßË«,
